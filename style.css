@@ -217,6 +217,9 @@ body{
     body{
         font-size: 10px;
     }
+}
+
+@media screen and (max-width:600px) {
     
     .recommended__course1,.recommended__course2,.recommended__course3,.recommended__course4{
         width: 180px;
